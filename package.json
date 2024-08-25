@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "scripts": {
         "dev": "node server.js",
-        "build": "next build",
+        "build": "cross-env NODE_OPTIONS=--openssl-legacy-provider next build",
         "prod:server": "cross-env NODE_ENV=production node server.js",
         "start": "npm-run-all -s build prod:server"
     },
