@@ -69,6 +69,3 @@ Here is a run-down of the core technologies used in this project.
 
 4. [React](https://reactjs.org/) - A very popular JavaScript DOM rendering framework for building scalable web applications using a component-based architecture.
 
-## Acknowledgements
-
-- **Remy Sharp ([@remi](https://github.com/remy))** - Next.js configuration for dotenv and custom servers ([remy/next.config.js](https://gist.github.com/remy/6bb7beccc6355cafa7eac64f46467c66)).
